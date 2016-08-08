@@ -1,6 +1,7 @@
 
 
 [![Build Status](https://travis-ci.org/rasbt/mlxtend.svg?branch=master)](https://travis-ci.org/rasbt/mlxtend)
+[![Build status](https://ci.appveyor.com/api/projects/status/7vx20e0h5dxcyla2/branch/master?svg=true)](https://ci.appveyor.com/project/rasbt/mlxtend/branch/master)
 [![Code Health](https://landscape.io/github/rasbt/mlxtend/master/landscape.svg?style=flat)](https://landscape.io/github/rasbt/mlxtend/master)
 [![PyPI version](https://badge.fury.io/py/mlxtend.svg)](http://badge.fury.io/py/mlxtend)
 [![Coverage Status](https://coveralls.io/repos/rasbt/mlxtend/badge.svg?branch=master&service=github)](https://coveralls.io/github/rasbt/mlxtend?branch=master)
@@ -15,9 +16,9 @@
 
 
 
-**Mlxtend is a library consisting of useful tools and extensions for the day-to-day data science tasks.**
+**Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks.**
 
-- This open source project is released under a permissive new BSD open source [license](./license) and commercially usable
+
 
 <br>
 
@@ -28,7 +29,7 @@ Sebastian Raschka 2014-2016
 
 ## Links
 
-- **Documentation:** 
+- **Documentation:**
     - html: [http://rasbt.github.io/mlxtend/](http://rasbt.github.io/mlxtend/)
     - pdf: [http://sebastianraschka.com/pdf/software/mlxtend.pdf](http://sebastianraschka.com/pdf/software/mlxtend.pdf)
 - PyPI: [https://pypi.python.org/pypi/mlxtend](https://pypi.python.org/pypi/mlxtend)
@@ -83,7 +84,7 @@ python setup.py install
 
 #### Anaconda/Conda
 
-Conda packages are now available for Mac, Windows, and Linux. You can install mlxtend using conda by executing 
+Conda packages are now available for Mac, Windows, and Linux. You can install mlxtend using conda by executing
 
 ```bash
 conda install -c rasbt mlxtend
@@ -152,6 +153,12 @@ If you use mlxtend as part of your workflow in a scientific publication, please 
 ```
 
 ---
+
+## License
+
+- This project is released under a permissive new BSD open source [license](`[LICENSE-BSD3.txt](https://github.com/rasbt/mlxtend/blob/master/LICENSE-BSD3.txt)`) and commercially usable. There is no warranty; not even for merchantability or fitness for a particular purpose.
+- In addition, you may use, copy, modify and redistribute all artistic creative works (figures and images) included in this distribution under the directory 
+according to the terms and conditions of the Creative Commons Attribution 4.0 International License.  See the file [LICENSE-CC-BY.txt](https://github.com/rasbt/mlxtend/blob/master/LICENSE-CC-BY.txt) for details. (Computer-generated graphics such as the plots produced by matplotlib fall under the BSD license mentioned above).
 
 ## Contact
 
